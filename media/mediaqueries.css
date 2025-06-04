@@ -1,0 +1,23 @@
+@media(min-width: 0px) and (max-width: 768px) {
+
+    .c1  {
+        margin: 0 auto;
+    }
+    .c2 li {
+        display: none;
+    }
+
+    .c3 {
+        display: none;
+    }
+
+
+     #menu {
+        display: flex;
+        left: 200px;
+     }
+
+    section {
+       
+    }
+}
